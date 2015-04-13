@@ -6,3 +6,5 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 
 fenzhiceueguanli add merge
+
+C下的另外小伙伴的 dev分支
